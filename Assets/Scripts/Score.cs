@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,57 +9,42 @@ public class Score : MonoBehaviour
     public Text ScoreText;
     public int score = 0;
     public int maxScore;
-    public Text MissScoreText;
-    public int MissScore = 0;
-    public int MissmaxScore;
-    public int SumScore;
-    public GameObject Scored;
-    public GameObject YouText;
+
+ 
+
+    public GameObject ScoreResult;
+
+    private JSON_tester jsonParser;
     // Start is called before the first frame update
     void Start()
     {
-        score = 0;
-        MissScore = 0;
+        jsonParser = FindObjectOfType<JSON_tester>();
+        score = jsonParser.CurrentIndex;
+  
     }
-
-    public void Addscore(int newScore)
+    void Update()
     {
-        score += newScore;
-        if (score >= maxScore) score = maxScore;
-        
-    }
-    public void Miss(int newMissScore)
-    {
-        MissScore += newMissScore;
-        if (MissScore >= MissmaxScore) MissScore = MissmaxScore;
-    }
+        UpdateScore();
+        if (score == maxScore)
+        {
+            ScoreResult.SetActive(true);
+        }
+        else
+        {
+            ScoreResult.SetActive(false);
+        }
 
+
+    }
+   
     public void UpdateScore()
     {
         ScoreText.text = "Score 0" + score;
        
     }
-    public void UpdateMiss()
-    {       
-        MissScoreText.text = "Miss 0" + MissScore;
-    }
+    
 
 
-    void Update()
-    {
-        UpdateScore();
-        //if (score == maxScore)
-        {
-        //    Scored.SetActive(false);
-        }
-        UpdateMiss();
-        //if (MissScore == MissmaxScore)
-        {
-          //  Scored.SetActive(false);
-        }
-
-        
-
-    }
+ 
 }
 

@@ -1,0 +1,2356 @@
+{
+    "data": [
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 0,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 30,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 60,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 90,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 120,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 150,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 0,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 1,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 2,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 3,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "Footstep",
+            "SOFA_Method": "DL_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "Generic"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "3D_Based"
+        },
+        {
+            "Azimuth": 180,
+            "Elev": 30,
+            "Repetition": 4,
+            "Stimuli": "PinkNoise",
+            "SOFA_Method": "DL_Based"
+        }
+    ]
+}

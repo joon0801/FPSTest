@@ -9,18 +9,30 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: dcf305c8cfdd5054e9c39d2cb1899028
   - enabled: 1
+    path: Assets/Scenes/Tutorial 1.unity
+    guid: beec98410ee0442728e66132582429f3
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 2.unity
+    guid: 4eee493270e3e4ac78e5b32285ab1a7c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 3.unity
+    guid: b0d5010b3c1174fc08c90c849e7f45f2
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 4.unity
+    guid: 826633196c41e49abb8befe0b3731c05
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 5.unity
+    guid: 963a135cd7e71453da06d7c964125700
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 6.unity
+    guid: a0ea21b80ba78441d818cc1ca5cf42b0
+  - enabled: 1
+    path: Assets/Scenes/Volume Calibration.unity
+    guid: d275fe42e7ba0413b824a5d122f2ae8c
+  - enabled: 1
+    path: Assets/Scenes/TutorialGameScene.unity
+    guid: 753a8ca19c349454fab23138ed06b52e
+  - enabled: 1
     path: Assets/Scenes/MainGame.unity
     guid: 40a6757bc577d2d4ca18902fd3128b93
-  - enabled: 1
-    path: Assets/Scenes/AzimTutorial.unity
-    guid: 908c6e9532fa1b84eb79a4f019f34200
-  - enabled: 1
-    path: Assets/Scenes/ElevTutorial.unity
-    guid: 27efdc511966e98458fd05723d8c5d49
-  - enabled: 1
-    path: Assets/Scenes/ScoreResult.unity
-    guid: 68f0af9cc492a5d46bb4089bba5a77f5
-  - enabled: 1
-    path: Assets/Scenes/ElevTutorialweqwe.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

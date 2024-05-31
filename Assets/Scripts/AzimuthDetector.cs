@@ -6,7 +6,8 @@ public class AzimuthDetector : MonoBehaviour
 {
 
     [SerializeField] private GameObject Player;
-    private int clickCount = 0;
+    public int maxcount = 10;
+    private int clickCount = 10;
     private string filePath;
 
     void Update()
@@ -26,20 +27,17 @@ public class AzimuthDetector : MonoBehaviour
 
     void AngleDetector()
     {
-
-        if (Input.GetMouseButtonDown(0) && clickCount < 20)
+        if (Input.GetMouseButtonDown(0) && clickCount < maxcount)
         {
-
             clickCount++;
-            float rotationY = Player.transform.eulerAngles.y;
-            //rotationY = rotationY - 180.0f;
-           
-            Debug.Log("Player's rotation angle: " + rotationY + " degrees");
+            float rotationYDegrees = Player.transform.eulerAngles.y;
+            float rotationYRadians = rotationYDegrees * Mathf.Deg2Rad; // 각도를 라디안으로 변환
+
+            Debug.Log("Player's rotation angle: " + rotationYDegrees + " degrees, " + rotationYRadians + " radians");
 
             // 파일에 각도 기록
-            string newLine = clickCount + "," + rotationY + "\n";
+            string newLine = clickCount + "," + rotationYDegrees + "," + rotationYRadians + "\n";
             File.AppendAllText(filePath, newLine);
-
         }
 
     }

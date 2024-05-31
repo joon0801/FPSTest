@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEditor;
-using UnityEditor.PackageManager;
+//using UnityEditor.PackageManager;
 using UnityEngine;
 using static Unity.VisualScripting.Member;
 
@@ -58,7 +58,7 @@ public class TargetHit : MonoBehaviour
                 allHrtf.dipoleWeight = 0.5f;
                 allHrtf.dipolePower = 4f;
                 allHrtf.directBinaural = false;
-                Debug.Log("Spatialize OFF");
+                Debug.Log("Spatializer OFF");
             }
 
             if (Input.GetKeyDown(KeyCode.H))
@@ -81,7 +81,7 @@ public class TargetHit : MonoBehaviour
                 allAud.spatialize = true;
                 allAud.spatialBlend = 1;
                 allAud.spatializePostEffects = true;
-                allAud.volume = 0.5f;
+                allAud.volume = 0.707f;
 
                 allHrtf.directivity = true;
                 allHrtf.dipoleWeight = 0.5f;

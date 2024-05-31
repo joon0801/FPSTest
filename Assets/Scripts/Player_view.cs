@@ -22,15 +22,13 @@ public class Player_view : MonoBehaviour
     [SerializeField]
     private Camera theCamera;
 
-    
-
     // Start is called before the first frame update
     void Start()
     {
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
         myRigid = GetComponent<Rigidbody>();
-        theCamera = FindObjectOfType<Camera>(); 
+        theCamera = FindObjectOfType<Camera>();
     }
 
     // Update is called once per frame
@@ -43,6 +41,10 @@ public class Player_view : MonoBehaviour
         CameraRotation();
         CharacterRotation();
 
+        if (Input.GetMouseButtonDown(0))
+        {
+            StartCoroutine(ResetCameraRotationWithDelay(0.1f));
+        }
     }
 
     /*
@@ -65,7 +67,6 @@ public class Player_view : MonoBehaviour
     /*CAMERA MOVEMENT Elevation-Axis*/
     private void CameraRotation()
     {
-
         float _xRotation = Input.GetAxisRaw("Mouse Y");
         float _cameraRotationX = _xRotation * LookSensitivity;
 
@@ -73,16 +74,27 @@ public class Player_view : MonoBehaviour
         CurrentCameraRotationX = Mathf.Clamp(CurrentCameraRotationX, -CameraRotationLimit, CameraRotationLimit);
 
         theCamera.transform.localEulerAngles = new Vector3(CurrentCameraRotationX, 0f, 0f);
-
     }
     /*CAMERA MOVEMENT Azimuth-Axis*/
-
     private void CharacterRotation()
     {
         float _yRotation = Input.GetAxisRaw("Mouse X");
-        Vector3 _CharacterRotationY = new Vector3 (0f, _yRotation, 0f) * LookSensitivity;
+        Vector3 _CharacterRotationY = new Vector3(0f, _yRotation, 0f) * LookSensitivity;
         myRigid.MoveRotation(myRigid.rotation * Quaternion.Euler(_CharacterRotationY));
-
     }
 
+    /* Coroutine to Reset Camera Rotation with Delay */
+    private IEnumerator ResetCameraRotationWithDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        ResetCameraRotation();
+    }
+
+    /* Reset Camera Rotation */
+    private void ResetCameraRotation()
+    {
+        CurrentCameraRotationX = 0f; // Reset the current camera rotation X value
+        theCamera.transform.localEulerAngles = Vector3.zero; // Reset the camera's local rotation to (0, 0, 0)
+        transform.localEulerAngles = Vector3.zero; // Reset the character's rotation to (0, 0, 0)
+    }
 }

@@ -86,14 +86,15 @@ public class GunController : MonoBehaviour
     private void Shoot()
     {
         currentGun.currentBulletCount--;
-        currentFireRate = currentGun.fireRate; // ¿¬»ç ¼Óµµ Àç°è»ê.
+        currentFireRate = currentGun.fireRate; // ï¿½ï¿½ï¿½ï¿½ ï¿½Óµï¿½ ï¿½ï¿½ï¿½ï¿½.
         PlaySE(currentGun.fire_Sound);
         currentGun.muzzleFlash.Play();
-        Hit();
+        //Hit();
         StopCoroutine(ReloadCoroutine());
        // StartCoroutine(RetroActionCoroutine());
 
     }
+    /*
     public void Hit()
     {
         
@@ -142,8 +143,8 @@ public class GunController : MonoBehaviour
             
         }       
     }
-
-
+    //This Part is related to Color Thing. and we don't need anymore those one.
+    
     IEnumerator HitCorrect()
     {
         
@@ -165,7 +166,7 @@ public class GunController : MonoBehaviour
 
     }
 
-    
+    */
 
 
     private void TryReload()

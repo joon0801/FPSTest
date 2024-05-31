@@ -9,15 +9,15 @@ public class MainGameSceneChanger : MonoBehaviour
 
     private void Update()
     {
-        ScoreSum();
+        //ScoreSum();
     }
-
+    /*
     public void ScoreSum()
     {
         int CoScore = ScoreupGameObject.score;
-        int MsScore = ScoreupGameObject.MissScore;
+        //int MsScore = ScoreupGameObject.MissScore;
 
-        int TotalScore = CoScore+ MsScore;
+        //int TotalScore = CoScore+ MsScore;
 
         if (TotalScore == 20)
         {
@@ -32,4 +32,5 @@ public class MainGameSceneChanger : MonoBehaviour
         yield return new WaitForSecondsRealtime(1f);
         SceneManager.LoadScene(4);
     }
+    */
 }
